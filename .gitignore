@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# API keys / secrets
+.env.local
+secrets.py
+
+# Large / generated files
+get-pip.py
+
+# OS
+.DS_Store
+Thumbs.db
